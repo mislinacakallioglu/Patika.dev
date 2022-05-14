@@ -12,4 +12,4 @@
 
 - Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
 
-![img3](https://user-images.githubusercontent.com/93317917/168359236-483da6d7-a4a3-48d4-8a90-5aed0594d8e8.png)
+![img3](https://user-images.githubusercontent.com/93317917/168427573-18aba88a-6046-4d73-93d9-da19a50d4e6f.png)
